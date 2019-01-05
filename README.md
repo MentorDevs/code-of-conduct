@@ -73,7 +73,8 @@ This code of conduct and its related procedures also applies to unacceptable beh
 
 mentordevs@gmail.com
 
-##10. License and attribution
+## 10. License and attribution
+
 The Citizen Code of Conduct is distributed by Stumptown Syndicate under a Creative Commons Attribution-ShareAlike license.
 
 Portions of text derived from the Django Code of Conduct and the Geek Feminism Anti-Harassment Policy.
